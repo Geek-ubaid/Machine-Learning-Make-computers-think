@@ -1,9 +1,9 @@
 <center> Machine Learning: Making computers <i>think</i>!</center>
 ---
 This Repo consists of the notebook used in this course, course structure and other resources that can be useful in getting deeper intuition about the concepts of machine learning.
+
 ## Course Directory:
 ```bash
-.
 ├── 01-Introduction
 │   ├── 1. intro
 │   ├── 2. SupVsUnsup
@@ -49,6 +49,7 @@ This Repo consists of the notebook used in this course, course structure and oth
 │   └── 3. Principal Component Analysis
 └── 09-Outro
 ```
+
 ## Reading Resources
 These are the list of top trending blogs for machine learning and AI. Follow them on most recent trends and research in this advancing field.
 -  <a href=" http://www.kdnuggets.com/">KD Nuggets</a>
