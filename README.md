@@ -1,4 +1,5 @@
 <center> Machine Learning: Making computers <i>think</i>!</center>
+
 ---
 This Repo consists of the notebook used in this course, course structure and other resources that can be useful in getting deeper intuition about the concepts of machine learning.
 
@@ -52,7 +53,7 @@ This Repo consists of the notebook used in this course, course structure and oth
 
 ## Reading Resources
 These are the list of top trending blogs for machine learning and AI. Follow them on most recent trends and research in this advancing field.
--  <a href=" http://www.kdnuggets.com/">KD Nuggets</a>
+- <a href="http://www.kdnuggets.com/">KD Nuggets</a>
 - <a href="https://www.datasciencecentral.com/"> Data Science Central </a>
 - <a href ="https://www.analyticsvidhya.com/">Analytics Vidhya </a>
 - <a href="https://towardsdatascience.com/">Towards Data Science </a>
@@ -61,7 +62,7 @@ These are the list of top trending blogs for machine learning and AI. Follow the
 - <a href="http://101.datascience.community/">Data Science 101 </a>
 - <a href="https://www.dataquest.io/blog/">Data Quest</a> 
 - <a href="http://www.dataschool.io/">DataSchool</a> 
-- <a href=" https://medium.com/">Medium</a>
+- <a href="https://medium.com/">Medium</a>
 
 ## Video Resources 
 
@@ -75,7 +76,7 @@ Below Mentioned are some TED talks given on the topic of Machine learning in rec
 
 ## References
 - <a href="https://scikit-learn.org/stable/">Scikit Learn Documentation</a>
-- <a href="[https://pandas.pydata.org/pandas-docs/stable/">Pandas Documentation</a>
-- <a href="[https://numpy.org/">Numpy Documentation</a>
-- <a href="[https://seaborn.pydata.org](https://seaborn.pydata.org/)">SeaBorn Documentation</a>
-- <a href="[https://matplotlib.org/3.1.1/contents.html](https://matplotlib.org/3.1.1/contents.html)">Matplotlib Documentation</a>
+- <a href="https://pandas.pydata.org/pandas-docs/stable/">Pandas Documentation</a>
+- <a href="https://numpy.org/">Numpy Documentation</a>
+- <a href="https://seaborn.pydata.org">SeaBorn Documentation</a>
+- <a href="https://matplotlib.org/3.1.1/contents.html">Matplotlib Documentation</a>
