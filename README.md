@@ -3,6 +3,7 @@
 ---
 This Repo consists of the notebook used in this course, course structure and other resources that can be useful in getting deeper intuition about the concepts of machine learning.
 
+
 ## Course Directory:
 ```bash
 ├── 01-Introduction
@@ -51,6 +52,7 @@ This Repo consists of the notebook used in this course, course structure and oth
 └── 09-Outro
 ```
 
+
 ## Reading Resources
 These are the list of top trending blogs for machine learning and AI. Follow them on most recent trends and research in this advancing field.
 - <a href="http://www.kdnuggets.com/">KD Nuggets</a>
@@ -64,6 +66,7 @@ These are the list of top trending blogs for machine learning and AI. Follow the
 - <a href="http://www.dataschool.io/">DataSchool</a> 
 - <a href="https://medium.com/">Medium</a>
 
+
 ## Video Resources 
 
 Below Mentioned are some TED talks given on the topic of Machine learning in recent years. Try to watch them to get a more insightful knowledge about Machine Learning. 
@@ -72,6 +75,7 @@ Below Mentioned are some TED talks given on the topic of Machine learning in rec
 <a href="https://www.ted.com/talks/anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t">Link to Video</a>
 - **Blaise Agüera y Arcas**: How computers are learning to be creative
 <a href="https://www.ted.com/talks/blaise_aguera_y_arcas_how_computers_are_learning_to_be_creative">Link to Video</a>
+
 
 
 ## References
