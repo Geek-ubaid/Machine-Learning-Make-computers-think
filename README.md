@@ -1,4 +1,7 @@
-<center> Machine Learning: Making computers <i>think</i>!</center>
+```html
+<center>
+![Next Webinar Poster – 15](https://user-images.githubusercontent.com/31818185/64046508-a0c90f00-cb89-11e9-9225-81753c338f91.png)
+<br><br> Machine Learning: Making computers <i>think</i>!</center>```
 
 ---
 This Repo consists of the notebook used in this course, course structure and other resources that can be useful in getting deeper intuition about the concepts of machine learning.
