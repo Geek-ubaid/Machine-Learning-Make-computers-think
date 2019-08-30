@@ -7,11 +7,12 @@ This Repo consists of the notebook used in this course, course structure and oth
 ## Course Directory:
 ```bash
 ├── 01-Introduction
-│   ├── 1. intro
-│   ├── 2. SupVsUnsup
-│   ├── 3. Setup environment
-│   ├── 4. installing dep
-│   └── 5. Setup up jupyter
+|   |---1. about me
+│   ├── 2. intro
+│   ├── 3. SupVsUnsup
+│   ├── 4. Setup environment
+│   ├── 5. installing dep
+│   └── 6. Setup up jupyter
 ├── 02-Data Collection
 │   ├── 1. DataFetch
 │   └── 2. DataImport
